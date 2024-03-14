@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tp1-2n3/lib/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tp1-2n3/lib/bluejcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tp1-2n3/lib/greenfoot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tp1-2n3/lib/junit-platform-console-standalone-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
